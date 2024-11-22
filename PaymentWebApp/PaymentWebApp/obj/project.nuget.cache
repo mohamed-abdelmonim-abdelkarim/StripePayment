@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eRhPp5RaEkClZpG/a8VdlbwahqkfpUl6hAaifKna7JXGubE7xV3Ab7tsWITt7qsVug47Gs17bm+BT6kkbv0SZw==",
+  "success": true,
+  "projectFilePath": "A:\\ZIGO_STORE_DATABASE\\PaymentWebApp\\PaymentWebApp\\PaymentWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CRIZMA MEGA STORE\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\CRIZMA MEGA STORE\\.nuget\\packages\\stripe.net\\47.1.0\\stripe.net.47.1.0.nupkg.sha512",
+    "C:\\Users\\CRIZMA MEGA STORE\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\CRIZMA MEGA STORE\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\CRIZMA MEGA STORE\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
